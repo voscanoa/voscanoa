@@ -48,20 +48,5 @@ I enjoy working on challenging problems, improving existing codebases, and learn
   </a>
 </p>
 
-<!-- <hr style="border: 1px solid white;"> -->
-<h3>GitHub Stats</h3>
-<div align="center" >
-    <a href="https://github.com/voscanoa">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=voscanoa&theme=transparent" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voscanoa&theme=transparent" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voscanoa&theme=transparent" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voscanoa&theme=github_dark" width="100%" height="50%">
-    </a>
-</div>
-
-<!-- <h3 align="center">Contribution Graph</h3>
-
-[![Vladimir Oscanoa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=voscanoa&theme=github-dark)](https://github.com/voscanoa/github-readme-activity-graph) -->
-
 
 
